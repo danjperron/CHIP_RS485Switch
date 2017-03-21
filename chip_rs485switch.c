@@ -52,8 +52,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
    RA1  SCL
    RA2  SDA
    RA3  MCLR
-   RA4  RE            Receive ENABLE to RS845 IC
-   RA5  DE            Transmit ENABLE tp RS495 IC
+   RA4  RE            Receive ENABLE to RS485 IC
+   RA5  DE            Transmit ENABLE tp RS485 IC
  */
   
 #define IN_ENABLE RA5
